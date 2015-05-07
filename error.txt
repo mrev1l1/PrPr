@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 ytrewq
+kok
 jg
 hj
 lok
-=======
->>>>>>> second conflict  commit
